@@ -7,3 +7,6 @@ Ejercicios de la semana 2.
 - .editorconfig
 - .gitignore
 - package.json (Add Prettier)
+- Instalar las dependecias desde package.json
+- Crear repo '''git init'''
+- Crear repo en github

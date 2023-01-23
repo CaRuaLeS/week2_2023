@@ -6,13 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Carlos",
   "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.0"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carlos",
   "license": "ISC",
   "prettier": {
     "singleQuote": true

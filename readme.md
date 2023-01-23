@@ -13,4 +13,6 @@ Ejercicios de la semana 2.
 - Install de eslint 'npm i -D eslint'
 - Configuración del eslint 'npx eslint --init'
 - Añadir 'npm i -D eslint-config-prettier'
-  Incluir en eslint.json "prettier" como última extensión
+- Incluir en eslint.json "prettier" como última extensión
+- Copiar carpeta de huskys
+- Instalar husky 'npx husky install'

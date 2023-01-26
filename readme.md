@@ -79,6 +79,9 @@ Ejercicios semana 2 . Bootcamp Madrid
 - Lo anterior sería nuestro gitHub action
 
 - Seguir las instrucciones de SonarCloud
+
   - Crear un fichero `sonar-project.properties` en la carpeta del package.json
   - y rellenalo con lo que da la instrucción del sonar
   - ACORDARSE DE CAMBIAR EL ARCHIVO, QUE ES ESPECÍFICO DE CADA PROYECTO (cambiar proyectkey y organiación)
+
+  - Que las action de gitHub tengas las 2 que hemos creado `add.yml` y `sonar.yml` (dentro de la carpetas que hemos dicho)
